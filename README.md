@@ -1,6 +1,6 @@
 # Digital Image Processing: Super Pixels
 ## Intro
-This project is created for the university class named Digital Image Processing at Aristotle University of Thessaloniki (AUTh). It's the first out of three repositories referenced on the same class.
+This project is created for the university class named Digital Image Processing at Aristotle University of Thessaloniki (AUTh). It's the second out of three repositories referenced on the same class.
 
 ## General
 In the second assignment of the course, we will implement the following:
