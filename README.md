@@ -9,7 +9,7 @@ In the second assignment of the course, we will implement the following:
 2. Image segmentation using the graph spectral clustering method (non-recursive).
 3. Image segmentation using the normalized cuts method (recursive).
 4. Image segmentation using normalized cuts with graph representation based on superpixels from the SLIC method.
-5. 
+   
 Along with the assignment, you will find the auxiliary MATLAB file "dip_hw_2.mat," which includes the data we will use for each question, such as input images and affinity matrices.
 
 ## Images as Graphs
