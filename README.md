@@ -106,8 +106,8 @@ In the initial experiment (k=2), the clusters are divided into 4 and 8 members, 
 #### Demo 2
 First, we read the images from the data and print them together:
 
-![Original image: Colors](/images/original_images/colors.png)
-![Original image: Super Mario](/images/original_images/super_mario.png)
+![Original image: Colors](/images/colors.png)
+![Original image: Super Mario](/images/super_mario.png)
 
 Next, we calculate the affinity matrices for the two images (the calculation takes some time), and then the clustering results for the requested cases:
 
